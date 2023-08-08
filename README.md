@@ -1,4 +1,2 @@
 # project--1
-FrontEnd: React; BackEnd:
-test
-ttest
+FrontEnd: React; BackEnd:FastAPI
